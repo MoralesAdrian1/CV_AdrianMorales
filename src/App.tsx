@@ -1,6 +1,5 @@
-import { Button, Divider, Typography } from '@mui/material';
+import {  Divider} from '@mui/material';
 import { Element } from 'react-scroll'
-import Proyectos from './components/Proyectos';
 import AboutMe from './components/me';
 import Experience from './components/experience';
 import Skills from './components/skills';

@@ -1,4 +1,4 @@
-import { Email, LinkedIn, WhatsApp } from "@mui/icons-material";
+import {  LinkedIn, WhatsApp } from "@mui/icons-material";
 import { Avatar, Grid, Typography, Box, Button } from "@mui/material";
 
 export default function AboutMe() {
